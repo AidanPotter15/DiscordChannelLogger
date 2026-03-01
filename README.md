@@ -5,7 +5,7 @@ This application requires a little bit of set up to become functional.
 
 Download the program and make sure it is in a folder because it creates files.
 
-When the application opens, when you hit start for the first time, the program will create a config file and open it.
+When the application opens and you hit start for the first time, the program will create a config file and open it.
 
 You will need two things:
 
